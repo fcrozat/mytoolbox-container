@@ -1,7 +1,7 @@
 <services>
  <service name="obs_scm">
     <param name="scm">git</param>
-    <param name="url">git://github.com/fcrozat/mytoolbox-container.git</param>
+    <param name="url">https://github.com/fcrozat/mytoolbox-container.git</param>
     <param name="revision">main</param>
     <param name="extract">Dockerfile</param>
  </service>
